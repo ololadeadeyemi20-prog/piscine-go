@@ -1,3 +1,4 @@
+echo "// force refresh" >> pointone.go
 // fix
 package piscine
 
