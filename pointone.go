@@ -1,5 +1,6 @@
+// fix
 package piscine
 
-func PointOne(n *int) {
+	 PointOne(n *int) {
     *n = 1
 }
